@@ -1,4 +1,4 @@
-👋 Hola, soy Yarod Stiven Bonilla (Yarol)
+👋 Hola, soy Yarod Stiven Bonilla 
 
 💻 Sobre Mí
 Soy un apasionado estudiante de Ingeniería Mecatrónica en formación, actualmente en mi sexto semestre. Disfruto aprender nuevas tecnologías y me encanta programar. He realizado un bootcamp en Henry y tengo un título técnico en programación de software.
@@ -32,4 +32,4 @@ Backend: Node.js, Express
 Base de Datos: PostgreSQL
 Otros: JWT, Cloudinary
 📫 Contáctame
-LinkedIn: Yarol Bonilla
+LinkedIn: [Yarol Bonilla](https://www.linkedin.com/in/yarod-bonilla-808a24198/)
