@@ -1,4 +1,5 @@
 👋 Hola, soy Yarod Stiven Bonilla (Yarol)
+
 💻 Sobre Mí
 Soy un apasionado estudiante de Ingeniería Mecatrónica en formación, actualmente en mi sexto semestre. Disfruto aprender nuevas tecnologías y me encanta programar. He realizado un bootcamp en Henry y tengo un título técnico en programación de software.
 
@@ -23,6 +24,7 @@ Frontend: React, Redux, Tailwind CSS
 Backend: Node.js, Express
 Base de Datos: PostgreSQL
 Otros: JWT para autenticación, Cloudinary para almacenamiento de imágenes
+
 🌱 Tecnologías y Herramientas
 Lenguajes de Programación: JavaScript, TypeScript
 Frontend: React, Redux, Tailwind CSS
